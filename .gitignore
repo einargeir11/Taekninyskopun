@@ -1,0 +1,10 @@
+# Ignore everything by default to avoid accidentally tracking home directory files
+*
+
+# Keep this ignore file
+!.gitignore
+
+# Allow the project folder to be tracked
+!/Desktop/
+!/Desktop/Tækninýsköpun/
+!/Desktop/Tækninýsköpun/**
